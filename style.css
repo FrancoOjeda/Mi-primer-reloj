@@ -1,0 +1,52 @@
+*{
+    margin: 0px;
+    padding: 0px;
+background-color: #ffa0e7;;
+}
+
+.title{
+    text-align: center;
+    color: #193154;
+    padding: 2em;
+    text-decoration: underline;
+}
+
+.reloj{
+    display: grid;
+    grid-template-columns: repeat(3, 300px);
+    grid-template-rows: 300px;
+    justify-content:space-around;
+    align-items: center;
+    font-size: 1.5em;
+}
+
+.hora{
+    border-radius: 100%;
+    background-color: #825a98;
+    text-align: center;
+    color: #193154;
+    padding: 100px;
+}
+.min{
+    border-radius: 100%;
+    background-color: #825a98;
+    text-align: center;
+    color: #193154;
+    padding: 100px;
+}
+.sec{
+    border-radius: 100%;
+    background-color: #825a98;
+    text-align: center;
+    color: #193154;
+    padding: 100px;
+}
+
+h3{
+    background-color: #825a98;
+}
+span{
+    background-color: #825a98;
+    font-size: 2em;
+    text-;
+}
